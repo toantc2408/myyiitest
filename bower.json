@@ -1,0 +1,22 @@
+{
+  "name": "yiitest",
+  "version": "0.0.0",
+  "authors": [
+    "ToanTC@Laptop <toantc@smartosc.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.2"
+  }
+}
